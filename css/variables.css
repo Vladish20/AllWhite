@@ -1,0 +1,21 @@
+:root {
+    --main-blue: #4456B1;
+    --light-blue: #7B8FF7;
+    --dark-blue: #1E2B6C;
+    --disabled-blue: #A4AAC7;
+    --titles-color: #444444;
+    --disabled-bg: #E1E3EC;
+    --main-bg: #f5f6f9;
+    --white: #ffffff;
+    --popup-overlay: rgba(0, 0, 0, 0.5);
+    --light-green: #44B156;
+    --bad-rating: #97A2B5;
+
+    --main-font: "Montserrat", "Helvetica", sans-serif;
+
+    --animation: 0.155s ease-in-out;
+}
+
+
+
+

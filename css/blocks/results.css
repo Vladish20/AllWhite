@@ -1,0 +1,39 @@
+.results {
+  width: 922px;
+  height: calc(100vh - 80px);
+  padding-left: 64px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.results__head {
+  z-index: 2;
+}
+
+.results__title {
+  margin-bottom: 16px;
+}
+
+.results__sorting {
+  margin-bottom: 30px;
+}
+
+.results__list {
+  margin: 0;
+  padding: 0;
+  flex-grow: 1;
+  overflow-y: auto;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.results__list::-webkit-scrollbar {
+  display: none;
+}
+
+.results__info {
+  margin-top: 30px;
+}
+

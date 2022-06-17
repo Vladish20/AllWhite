@@ -1,0 +1,8 @@
+.popup__error-message{
+    background-color: var(--white);
+    padding: 20px 50px;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 20px;
+}

@@ -1,0 +1,30 @@
+.chars {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.chars__name {
+  font-size: 14px;
+  line-height: 1.57;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  color: var(--disabled-blue);
+}
+
+.chars__value {
+  font-size: 20px;
+  line-height: 1.6;
+  font-weight: 600;
+  color: var(--titles-color);
+}
+
+.chars__item {
+  margin-bottom: 20px;
+}
+
+.chars__item:not(:last-child) {
+  padding-right: 44px;
+}

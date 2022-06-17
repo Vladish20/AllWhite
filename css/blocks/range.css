@@ -1,0 +1,15 @@
+.rs-container .rs-selected {
+    color: var(--white);
+    background-color: var(--main-blue);
+    border-color: var(--main-blue);
+}
+
+.rs-container .rs-scale {
+    display: none;
+}
+
+.rs-tooltip {
+    color: var(--white);
+    background-color: var(--main-blue);
+    border-color: var(--main-blue);
+}
