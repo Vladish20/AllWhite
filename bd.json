@@ -33,7 +33,7 @@
       "address": {
         "city": "Домжерицы",
         "street": "ул.Центральная",
-        "building": "д.3"
+        "building": "3"
       },
       "photos": [
         "/img/bbz1.jpg",
@@ -56,7 +56,7 @@
       "address": {
         "city": "Браслав",
         "street": "ул.Дачная",
-        "building": "д.1"
+        "building": "1"
       },
       "photos": [
         "/img/npbo1.jpg",
@@ -79,7 +79,7 @@
       "address": {
         "city": "Нарочь",
         "street": "ул.Ленинская",
-        "building": "д.11"
+        "building": "11"
       },
       "photos": [
         "/img/npn1.jpg",
@@ -102,7 +102,7 @@
       "address": {
         "city": "Лясковичи",
         "street": "ул.Комсомольская",
-        "building": "д.26"
+        "building": "26"
       },
       "photos": [
         "/img/npp1.jpg",
@@ -125,7 +125,7 @@
       "address": {
         "city": "Лунинец",
         "street": "ул.50 лет Октября",
-        "building": "д.4"
+        "building": "4"
       },
       "photos": [
         "/img/rlzsp1.jpg",
@@ -192,7 +192,7 @@
       "address": {
         "city": "Брест",
         "street": "ул.Героев обороны Брестской крепости",
-        "building": "д.60"
+        "building": "60"
       },
       "photos": [
         "/img/bk1.jpg",
@@ -215,7 +215,7 @@
       "address": {
         "city": "Пинск",
         "street": "ул.Днепровской Флотилии",
-        "building": "д.6"
+        "building": "6"
       },
       "photos": [
         "/img/mkop1.jpg",
